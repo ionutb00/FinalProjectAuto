@@ -17,7 +17,7 @@ public class SearchPage extends BasePage{
     @FindBy (xpath = "//button[@class='c-search__button']")
     private WebElement objectFind;
     @FindBy (xpath = "//a[@title='HP Victus 16-e1019nq 7H693EA Laptop']")
-    private WebElement interactWithProduct;
+    private WebElement interactWithProduct ;
     public SearchPage(WebDriver driver) {
         super(driver);
     }

@@ -11,6 +11,7 @@ public class BasePage {
     public WebDriver driver;
     public BasicHelpers basicHelpers;
 
+
     public BasePage(WebDriver driver) {
         this.driver = driver;
         basicHelpers= new BasicHelpers(driver);

@@ -60,5 +60,6 @@ public class ComparePage extends BasePage{
         logEvents(INFO_STEP,"We are redirect to a modal Page to select the button compareButton");
         basicHelpers.clickElement(compareModalPageButton);
         logEvents(PASS_STEP,"Successfully redirect to comparison page");
+
     }
 }

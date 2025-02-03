@@ -23,6 +23,7 @@ public class InteractionPage extends BasePage{
     private WebElement priceText;
     @FindBy (xpath = "//span[@content='229']")
     private WebElement comparePriceText;
+
     public InteractionPage(WebDriver driver) {
         super(driver);
 

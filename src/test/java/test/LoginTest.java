@@ -14,7 +14,6 @@ public class LoginTest extends BaseTest{
         logPage.loginfill();
         logEvents(PASS_STEP, "expected result we should no complete the login because the data never exist");
 
-
     }
 
 

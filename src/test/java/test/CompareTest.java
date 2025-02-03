@@ -15,6 +15,5 @@ public class CompareTest extends BaseTest {
         logEvents(INFO_STEP,"The second object also added in comparison");
         comparePage.modalPage();
         logEvents(PASS_STEP,"All the action works and the comparison page are showed ");
-
     }
 }

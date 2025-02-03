@@ -33,7 +33,7 @@ public class BaseTest {
         logPage = new LoginPage(driver);
         searchPage = new SearchPage(driver);
         comparePage=new ComparePage(driver);
-        interactionPage=new InteractionPage(driver);
+        interactionPage= new InteractionPage(driver);
 
 
 

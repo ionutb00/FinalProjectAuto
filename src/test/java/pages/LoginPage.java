@@ -35,7 +35,6 @@ public class LoginPage extends BasePage{
         basicHelpers.waitForElement(errorMessage);
         System.out.println("Un mesaj de eroare va fi afista " + errorMessage.getText());
         logFailWithScreenshot("Picture with the error",driver);
-
     }
 
 }

@@ -3,7 +3,7 @@ package propertyUtility;
 import java.io.FileInputStream;
 import java.util.*;
 
-public class PropertyUtility {
+public class  PropertyUtility {
     private Properties properties;
 
     public PropertyUtility(String testName) {

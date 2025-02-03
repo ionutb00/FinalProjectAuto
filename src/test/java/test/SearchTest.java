@@ -11,7 +11,6 @@ public class SearchTest extends BaseTest {
 
     @Test
  public void test(){
-
         searchPage.searchBarClick();
         searchPage.searchField();
         logEvents(INFO_STEP," verify if the search field is correctly found");

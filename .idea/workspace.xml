@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e2299ce-553a-458a-aa20-53ad205f6b03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/extentUtility/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/extentUtility/ReportEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/BasicHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ComparePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/InteractionPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/propertyUtility/PropertyUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/CompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/InteractionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/CompareData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/LoginData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SearchData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testSuite/RegressionSuite.xml" afterDir="false" />
+    <list default="true" id="0e2299ce-553a-458a-aa20-53ad205f6b03" name="Changes" comment="end project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +20,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ionutb00/FinalProjectAuto.git",
+    "accountId": "77aee6ad-7c8e-4509-b5d9-d41b137314b7"
+  }
+}]]></component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
@@ -61,36 +47,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.openHomePage.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.FinalProjectAuto [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.BuyTest.buyingTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.BuyTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/testNgSuite/RegressionSuite.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/testSuite/RegressionSuite.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CompareTest.compareTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CompareTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.InteractionTest.interactionTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.loghinTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SearchTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SearchTest.test.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.openHomePage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.openHomePage.test.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.openHomePage.testOpenBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.openHomePage.testOpenHomePage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.searchTest.test.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.openHomePage.executor": "Run",
+    "Maven.FinalProjectAuto [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BuyTest.buyingTest.executor": "Run",
+    "TestNG.BuyTest.executor": "Run",
+    "TestNG.C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/testNgSuite/RegressionSuite.xml.executor": "Run",
+    "TestNG.C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/testSuite/RegressionSuite.xml.executor": "Run",
+    "TestNG.CompareTest.compareTest.executor": "Run",
+    "TestNG.CompareTest.executor": "Run",
+    "TestNG.InteractionTest.interactionTest.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.loghinTest.executor": "Run",
+    "TestNG.SearchTest.executor": "Run",
+    "TestNG.SearchTest.test.executor": "Run",
+    "TestNG.openHomePage.executor": "Run",
+    "TestNG.openHomePage.test.executor": "Run",
+    "TestNG.openHomePage.testOpenBrowser.executor": "Run",
+    "TestNG.openHomePage.testOpenHomePage.executor": "Run",
+    "TestNG.searchTest.test.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/testSuite/RegressionSuite.xml">
     <configuration name="C:/Users/ionut/IdeaProjects/FinalProjectAuto/src/testSuite/RegressionSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FinalProjectAuto" />
@@ -193,7 +179,20 @@
       <option name="presentableId" value="Default" />
       <updated>1734866449055</updated>
     </task>
+    <task id="LOCAL-00001" summary="end project">
+      <option name="closed" value="true" />
+      <created>1738599420840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738599420840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="end project" />
+    <option name="LAST_COMMIT_MESSAGE" value="end project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
